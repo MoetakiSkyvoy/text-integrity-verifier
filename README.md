@@ -2,9 +2,7 @@
 
 A simple web-based tool to generate and verify text strings with embedded SHA-256 hashes for integrity checking. Useful for ensuring that snippets of text (like copyright notices, contact information, or configuration data) have not been accidentally modified.
 
-## Live Demo
-
-[GitHub Pages 链接]
+## [Live Demo](https://moetakiskyvoy.github.io/text-integrity-verifier/)
 
 ## Purpose
 
