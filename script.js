@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // --- Constants ---
     const SEPARATOR = '; SHA-256: ';
-    const DEFAULT_INPUT_TEXT = "© Moetaki. All rights reserved. Verify: [] Contact: moeterminator@proton.me";
+    const DEFAULT_INPUT_TEXT = "© Moetaki. All rights reserved. Contact: moeterminator@proton.me Verify: https://moetakiskyvoy.github.io/text-integrity-verifier/";
     const ENCODING = 'utf-8';
 
     // --- SHA-256 Hashing Function (using Web Crypto API) ---
